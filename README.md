@@ -28,3 +28,6 @@ The player controls a red circle through a randomly generated maze and must reac
 - JavaScript
 - p5.js
 - HTML5 & CSS3
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
